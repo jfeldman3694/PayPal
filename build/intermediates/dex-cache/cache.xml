@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jeff\AndroidStudioProjects\PayPal\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Jeff\AndroidStudioProjects\PayPal\app\build\intermediates\pre-dexed\debug\classes-90fa14b81dd0ee09b27c1b5e2e7ebd8dd30c6b80.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jeff\AndroidStudioProjects\PayPal\app\libs\PayPal_MPL.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7322c3ef85eea27ec806b742a52f067676fab173">
+        <dex dex="C:\Users\Jeff\AndroidStudioProjects\PayPal\app\build\intermediates\pre-dexed\debug\PayPal_MPL-2221b1ee692ad9d3c5aa865b6b3e37bcd7be0948.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jeff\AndroidStudioProjects\PayPal2-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Jeff\AndroidStudioProjects\PayPal2-master\app\build\intermediates\pre-dexed\debug\classes-59f4378095e7e70e522d23d0721c441c9d6eee65.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jeff\AndroidStudioProjects\PayPal2-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Jeff\AndroidStudioProjects\PayPal2-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-b80b201c0e15a1cf945ef02d7bb333b401f751b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jeff\AndroidStudioProjects\PayPal2-master\app\libs\PayPalAndroidSDK-2.8.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dac002470615f5946a86451284ab8f43611ce8b9">
+        <dex dex="C:\Users\Jeff\AndroidStudioProjects\PayPal2-master\app\build\intermediates\pre-dexed\debug\PayPalAndroidSDK-2.8.5-8c69f7964930294f9c1178bee882fc8c489d93b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jeff\AndroidStudioProjects\PayPal2-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Jeff\AndroidStudioProjects\PayPal2-master\app\build\intermediates\pre-dexed\debug\classes-e96fd2a4e975276d6b66321ec392a51677c365dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jeff\AndroidStudioProjects\PayPal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Jeff\AndroidStudioProjects\PayPal\app\build\intermediates\pre-dexed\debug\classes-de3ef866bcf517c8b89ca9bbbe70319974998125.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jeff\AndroidStudioProjects\PayPal\app\libs\PayPalAndroidSDK-2.8.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dac002470615f5946a86451284ab8f43611ce8b9">
+        <dex dex="C:\Users\Jeff\AndroidStudioProjects\PayPal\app\build\intermediates\pre-dexed\debug\PayPalAndroidSDK-2.8.5-b7c3a95b6bfb053d5345895a644b18df57a29323.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jeff\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Jeff\AndroidStudioProjects\PayPal2-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-67f29aaf65db03e4dd2de6f84a2f58b51c65cc65.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jeff\AndroidStudioProjects\PayPal2-master\app\libs\PayPal_MPL.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7322c3ef85eea27ec806b742a52f067676fab173">
+        <dex dex="C:\Users\Jeff\AndroidStudioProjects\PayPal2-master\app\build\intermediates\pre-dexed\debug\PayPal_MPL-d9fab2125e7fc0a4da400451ab9da2607e075e3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jeff\AndroidStudioProjects\PayPal\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Jeff\AndroidStudioProjects\PayPal\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-96351c684cf78b0efe098809912bf9a07868f3ea.jar" />
+    </item>
+
+</items>
